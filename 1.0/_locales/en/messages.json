@@ -1,0 +1,14 @@
+{
+   "web2pdfConvertButtonText": {
+      "message": "Convert Web Page to PDF..."
+   },
+   "web2pdfConvertButtonToolTip": {
+      "message": "Convert current web page to a PDF file"
+   },
+   "web2pdfExtnDescription": {
+      "message": "Converts a web page to PDF"
+   },
+   "web2pdfExtnName": {
+      "message": "Create PDF"
+   }
+}
