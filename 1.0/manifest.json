@@ -3,7 +3,7 @@
 	    "page": "background.html"
    },
    "browser_action": {
-      "default_icon": "skin/AX_convertb_XI_N_19x19.png",
+      "default_icon": "skin/1.png",
       "default_title": "__MSG_web2pdfConvertButtonText__"
    },
    "content_scripts": [ {
@@ -14,9 +14,9 @@
    "default_locale": "en",
    "description": "__MSG_web2pdfExtnDescription__",
    "icons": {
-      "128": "skin/C_AdobeLogo.png",
-      "16": "skin/AX_convertb_XI_N_16x16.png",
-      "48": "skin/C_AdobeLogo_48x48.png"
+      "128": "skin/1.png",
+      "16": "skin/1.png",
+      "48": "skin/1.png"
    },
    "manifest_version": 2,
    "name": "__MSG_web2pdfExtnName__",
